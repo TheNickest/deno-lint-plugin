@@ -8,5 +8,9 @@
   },
   "lint": {
     "plugins": ["./my-plugin.ts"]
-  }
+  },
+  "name": "@thenickest/function-name-convention",
+  "version": "1.0.0",
+  "license": "MIT",
+  "exports": "./my-plugin.ts"
 }
