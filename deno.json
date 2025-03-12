@@ -10,7 +10,7 @@
     "plugins": ["./my-plugin.ts"]
   },
   "name": "@thenickest/function-name-convention",
-  "version": "1.0.0",
+  "version": "0.1.2",
   "license": "MIT",
   "exports": "./my-plugin.ts"
 }
